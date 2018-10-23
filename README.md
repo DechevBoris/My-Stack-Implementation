@@ -1,1 +1,1 @@
-# My-Stack-Implementation
+# Stack
